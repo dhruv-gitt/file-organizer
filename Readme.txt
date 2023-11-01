@@ -1,4 +1,4 @@
-github.com/dhruv-gitt
+https://github.com/dhruv-gitt/file-organizer
 
 Description:
 
